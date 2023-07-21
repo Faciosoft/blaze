@@ -1,0 +1,25 @@
+{
+  "name": "blaze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faciosoft/blaze.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faciosoft/blaze/issues"
+  },
+  "homepage": "https://github.com/Faciosoft/blaze#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6"
+  }
+}
